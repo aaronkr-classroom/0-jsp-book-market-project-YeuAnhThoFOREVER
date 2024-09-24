@@ -1,0 +1,26 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<html>
+<head>
+    <title>DJU Book Market</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to DJU Book Market</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.jsp">Home</a></li>
+            <li><a href="cart.jsp">Cart</a></li>
+            <li><a href="checkout.jsp">Checkout</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>Available Books</h2>
+        <!-- Dynamic content here -->
+    </main>
+    <footer>
+        <p>&copy; 2024 DJU Book Market</p>
+    </footer>
+</body>
+</html>
